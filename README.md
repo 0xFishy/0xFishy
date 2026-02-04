@@ -32,7 +32,7 @@ my focus now is **finding what can go wrong before it does**.
 - Protocol Design Review
 - DeFi Threat Modeling
 - Edge Cases & Invariant Analysis
-
+- Formal Verification
 ---
 
 ## 🧰 Technical Stack
