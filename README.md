@@ -4,7 +4,7 @@
 
 For private audits, security reviews or collaborations:
 
-📧 fishy0x@proton.me 
+📧 fishy0x@proton.me    
 [![X](https://img.shields.io/badge/X-fishy0x-000000?style=for-the-badge&logo=x)](https://x.com/fishy0x)
 
 
